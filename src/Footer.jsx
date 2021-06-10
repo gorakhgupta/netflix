@@ -51,11 +51,8 @@ const Footer = () => {
           </h6>
           <p>
            <span style={{color:'yellow'}}>Developer :</span><br></br>
-           <a href="#"><span style={{color:'red'}}><b>GORAKH KUMAR GUPTA</b></span></a><br />
-           <div class="card col-md-2 col-lg-2 col-xl-2 mx-auto mb-4" style={{width: '12rem'}}>
-  <img class="card-img-top" src="https://scontent.flko1-1.fna.fbcdn.net/v/t1.6435-9/90213161_2573087756264796_4200069177551093760_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FplpCXyu8-YAX9bK8bk&_nc_ht=scontent.flko1-1.fna&oh=d29f631f1a796f77dee01b1df6656344&oe=60E58027" alt="Card image cap"/>
-  
-</div>
+           <a style={{textDecoration:'none'}} href="#"><span style={{color:'red'}}><b>GORAKH KUMAR GUPTA</b></span></a><br />
+    
           </p>
         </div>
         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -72,9 +69,7 @@ const Footer = () => {
           <p>
             <a href="#!" className="text-reset">Movies</a>
           </p>
-          <p>
-            <a href="#!" className="text-reset">Hollywood</a>
-          </p>
+         
         </div>
       
         <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -87,9 +82,6 @@ const Footer = () => {
           </p>
           <p>
             <a href="#!" className="text-reset">Settings</a>
-          </p>
-          <p>
-            <a href="#!" className="text-reset">Orders</a>
           </p>
           <p>
             <a href="#!" className="text-reset">Help</a>
@@ -106,8 +98,7 @@ const Footer = () => {
             <i className="fas fa-envelope me-3"></i>
             info@Netflix.com
           </p>
-          <p><i className="fas fa-phone me-3"></i> + 01 234 56</p>
-          <p><i className="fas fa-print me-3"></i> + 01 234 56</p>
+          <p><i className="fas fa-phone me-3"></i>📲 9161266942 </p>
         </div>
         
       </div>
