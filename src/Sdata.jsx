@@ -90,6 +90,12 @@ const Sdata = [
         title:"NetFlix Original series",
         links:"https://www.netflix.com/in/title/80178151",
     },
+    {id:11,
+        sname:"SABRINA",
+        imagescr:"https://i.pinimg.com/736x/49/ab/37/49ab376f7cdfca3735888bac94b5741c.jpg",
+        title:"NetFlix Original series",
+        links:"https://www.netflix.com/in/title/80223989",
+    },
  
    
    
