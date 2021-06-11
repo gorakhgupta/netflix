@@ -47,7 +47,7 @@ const Footer = () => {
         <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           
           <h6 className="text-uppercase fw-bold mb-4">
-            <i className="fas fa-gem me-3"></i> <span style={{color:'red'}}>NETFLIX</span>
+            <i className="fas fa-gem me-3"></i> <span style={{color:'red',borderBottom:'3px solid purple'}}>NETFLIX</span>
           </h6>
           <p>
            <span style={{color:'yellow'}}>Developer :</span><br></br>
